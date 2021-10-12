@@ -1,5 +1,5 @@
 # Todo List
-Project #49 in Brad Traversy's 50 Projects in 50 Days. 
+Continued from Project #49 in Brad Traversy's 50 Projects in 50 Days. In this project, I  enhance the todo list to using the project Modern JavaScript Novice to Ninja.
 
 ![Todo List](screenshot.jpg)
 
