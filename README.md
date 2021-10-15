@@ -1,5 +1,5 @@
 # Todo List
-Continued from Project #49 in Brad Traversy's 50 Projects in 50 Days. In this project, I  enhance the todo list to using the project Modern JavaScript Novice to Ninja.
+ In this project, I  change the functionality of the todo list from Project #49 in Brad Traversy's 50 Projects in 50 Days.
 
 ![Todo List](screenshot.jpg)
 
@@ -10,7 +10,7 @@ Continued from Project #49 in Brad Traversy's 50 Projects in 50 Days. In this pr
 
 ## Install
 ```
-    $ git clone git@github.com:samiiexx/sam-js-49.git
+    $ git clone git@github.com:samiiexx/sam-js-todo-list.git
     $ cd main
 ```  
 ## Contributors
